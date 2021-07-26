@@ -1,0 +1,9 @@
+{
+    "error": "Error:",
+    "cities": "Cities",
+    "search": "Search city...",
+    "favorites": "Favorites",
+    "delete": "Delete?",
+    "yes": "Yes",
+    "no": "No"
+}
