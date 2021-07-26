@@ -5,19 +5,23 @@ Unfortunatelly whole project is made without any commit.
 
 ## Description
 
-HomePage is a PageView with 3 views:
+Simple Weather app for current user localization and cities selected from all supported locations (json from API site).
+On Start user gets PageView with 3 views:
 
  - home - showing weather info in current location
  - cities - showing list of all available cities to weather check. List has search feature added. On city pressed WeatherInfo page is shown, where You can add/remove city from favorites.
  - favorites - showing list of dissmissible cities marked as favorite. Favorite list is stored locally using Hive. On swipe we can delete city from favorites. On pressed WeatherInfo page is shown with same features like above.
 
+ Global AppBar with switch to change weather into units.
+
 ## Features
 
+ - state management: Cubit
  - polish/english language support [ready to be extended]
  - global feature to change weather info units [metric/imperial]
  - dynamic search feature
  - add/remove city from favorites
- - favorites stored locally
+ - favorites stored locally in HIVE BOX
 
  ### Stack
 
