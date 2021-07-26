@@ -22,31 +22,33 @@ HomePage is a PageView with 3 views:
  ### Stack
 
 
- * WeatherAPi: https://openweathermap.org/
- - injectable
- - equatable
- - dartz
- - get_it
- - flutter_bloc
+ - <a href="https://openweathermap.org">WeatherAPi</a>
  --------------------------
- - intl
- - intl_utils
+ - <a href="https://pub.dev/packages/injectable">injetable</a>
+ - <a href="https://pub.dev/packages/equatable">equatable</a>
+ - <a href="https://pub.dev/packages/dartz">dartz</a>
+ - <a href="https://pub.dev/packages/get_it">get_it</a>
+ - <a href="https://pub.dev/packages/flutter_bloc">flutter_bloc</a>
  --------------------------
- - retrofit
- - dio
+ - <a href="https://pub.dev/packages/intl">intl</a>
+ - <a href="https://pub.dev/packages/intl_utils">intl_utils</a>
  --------------------------
- - geolocator
- - geocoding
+ - <a href="https://pub.dev/packages/retrofit">retrofit</a>
+ - <a href="https://pub.dev/packages/dio">dio</a>
  --------------------------
- - cached_network_image
- - flutter_svg
- - flutter_switch
+ - <a href="https://pub.dev/packages/geolocator">geolocator</a>
+ - <a href="https://pub.dev/packages/geocoding">geocoding</a>
  --------------------------
- - hive
- - hive_flutter
- - path_provider
+ - <a href="https://pub.dev/packages/cached_network_image">cached_network_image</a>
+ - <a href="https://pub.dev/packages/flutter_svg">flutter_svg</a>
+ - <a href="https://pub.dev/packages/flutter_switch">flutter_switch</a>
  --------------------------
- - hive_generator
- - retrofit_generator
- - injectable_generator
- - build_runner
+ - <a href="https://pub.dev/packages/hive">hive</a>
+ - <a href="https://pub.dev/packages/hive_flutter">hive_flutter</a>
+ - <a href="https://pub.dev/packages/path_provider">path_provider</a>
+ --------------------------
+ - <a href="https://pub.dev/packages/hive_generator">hive_generator</a>
+ - <a href="https://pub.dev/packages/retrofit_generator">retrofit_generator</a>
+ - <a href="https://pub.dev/packages/injectable_generator">injectable_generator</a>
+ - <a href="https://pub.dev/packages/build_runner">build_runner</a>
+ --------------------------
